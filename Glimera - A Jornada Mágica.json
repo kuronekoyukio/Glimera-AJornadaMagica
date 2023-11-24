@@ -22,7 +22,7 @@
     "version": "1.0.0",
     "name": "Glimera - A Jornada Mágica",
     "description": "",
-    "author": "",
+    "author": "KuroNekoYukio",
     "windowWidth": 400,
     "windowHeight": 225,
     "latestCompilationDirectory": "",
@@ -220,6 +220,654 @@
         "name": "Resources/characters/Glimera3.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera10.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera12.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera18.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/Glimera20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/Glimera20.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo15.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo20.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo8.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerCorpo12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerCorpo12.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS12.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI14.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS18.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS20.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS13.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS14.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoS15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoS15.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI6.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI7.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI9.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI10.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI11.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI12.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI16.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI17.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI18.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI19.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Resources/characters/GlimerBracoI20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Resources/characters/GlimerBracoI20.png",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -235,10 +883,10 @@
       "effects": [],
       "behaviors": [
         {
-          "canBeGrabbed": true,
           "name": "Platform",
-          "platformType": "NormalPlatform",
           "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": true,
+          "platformType": "NormalPlatform",
           "yGrabOffset": 0
         }
       ],
@@ -299,9 +947,22 @@
       "name": "bullet",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "velocity",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "extraBorder": 1,
+          "name": "DestruirFora",
+          "type": "DestroyOutsideBehavior::DestroyOutside"
+        }
+      ],
       "animations": [
         {
           "name": "",
@@ -356,12 +1017,147 @@
     {
       "adaptCollisionMaskAutomatically": false,
       "assetStoreId": "",
-      "name": "Glimera",
+      "name": "GlimeraCorpo",
       "type": "Sprite",
       "updateIfNotVisible": false,
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "Fliped",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "folded": true,
+          "name": "AnimationNumber",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "effects": [],
-      "behaviors": [],
+      "behaviors": [
+        {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet",
+          "FireCooldown": 0.1,
+          "HasJustFired": false,
+          "FiringArc": 45,
+          "BulletQuantity": 1,
+          "AngleVariance": 0,
+          "RotateBullet": true,
+          "AmmoQuantity": 0,
+          "ShotsPerReload": 0,
+          "ReloadDuration": 1,
+          "MaxAmmo": 0,
+          "ShotsBeforeNextReload": 0,
+          "TotalShotsFired": 0,
+          "TotalBulletsCreated": 0,
+          "StartingAmmo": 0,
+          "TotalReloadsCompleted": 0,
+          "UnlimitedAmmo": true,
+          "ReloadInProgress": false,
+          "HeatIncreasePerShot": 0,
+          "HeatLevel": 0,
+          "AutomaticReloading": true,
+          "OverheatDuration": 0,
+          "LinearCoolingRate": 0.1,
+          "ExponentialCoolingRate": 0.3,
+          "BulletLayer": "",
+          "RandomizedAngle": 0,
+          "BulletSpeedVariance": 0
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "acceleration": 400,
+          "canGoDownFromJumpthru": true,
+          "canGrabPlatforms": false,
+          "canGrabWithoutMoving": true,
+          "deceleration": 4000,
+          "gravity": 1000,
+          "ignoreDefaultControls": true,
+          "jumpSpeed": 500,
+          "jumpSustainTime": 0.5,
+          "ladderClimbingSpeed": 150,
+          "maxFallingSpeed": 800,
+          "maxSpeed": 180,
+          "slopeMaxAngle": 60,
+          "useLegacyTrajectory": false,
+          "xGrabTolerance": 10,
+          "yGrabOffset": 0
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.9,
+          "DownwardSpeed": 0.9,
+          "FollowOnX": true,
+          "FollowOnY": true,
+          "FollowFreeAreaLeft": 0,
+          "FollowFreeAreaRight": 0,
+          "FollowFreeAreaTop": 0,
+          "FollowFreeAreaBottom": 0,
+          "CameraOffsetX": 0,
+          "CameraOffsetY": 0,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 0,
+          "LogRightwardSpeed": 0,
+          "LogDownwardSpeed": 0,
+          "LogUpwardSpeed": 0,
+          "DelayedCenterX": 0,
+          "DelayedCenterY": 0,
+          "ForecastHistoryMeanX": 0,
+          "ForecastHistoryMeanY": 0,
+          "ForecastHistoryVarianceX": 0,
+          "ForecastHistoryCovariance": 0,
+          "ForecastHistoryLinearA": 0,
+          "ForecastHistoryLinearB": 0,
+          "ForecastedX": 0,
+          "ForecastedY": 0,
+          "ProjectedNewestX": 0,
+          "ProjectedNewestY": 0,
+          "ProjectedOldestX": 0,
+          "ProjectedOldestY": 0,
+          "ForecastHistoryVarianceY": 0,
+          "Index": 0,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 0,
+          "WaitingSpeedXMax": 0,
+          "WaitingSpeedYMax": 0,
+          "WaitingEnd": 0,
+          "CameraDelayCatchUpDuration": 0,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000,
+          "OldY": 9000,
+          "IsCalledManually": false
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera",
+          "PlatformerCharacter": "PlatformerObject",
+          "SmoothCamera": "SmoothCamera",
+          "JumpOriginY": 9.805709277156521e-306,
+          "AirFollowFreeAreaTop": 0,
+          "AirFollowFreeAreaBottom": 0,
+          "FloorFollowFreeAreaTop": 0,
+          "FloorFollowFreeAreaBottom": 0,
+          "AirUpwardSpeed": 0.95,
+          "AirDownwardSpeed": 0.95,
+          "FloorUpwardSpeed": 0.9,
+          "FloorDownwardSpeed": 0.9,
+          "AirUpwardSpeedMax": 9000,
+          "AirDownwardSpeedMax": 9000,
+          "FloorUpwardSpeedMax": 9000,
+          "FloorDownwardSpeedMax": 9000
+        }
+      ],
       "animations": [
         {
           "name": "Idle",
@@ -373,18 +1169,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera1.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo1.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -395,19 +1185,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -415,18 +1205,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera2.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo2.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -437,19 +1221,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -457,18 +1241,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera3.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo3.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -479,19 +1257,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -499,18 +1277,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera2.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo2.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -521,19 +1293,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -553,18 +1325,12 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera4.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo6.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -575,19 +1341,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -595,18 +1361,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera5.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo5.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -617,19 +1377,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -637,18 +1397,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera6.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo4.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -659,19 +1413,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -679,18 +1433,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera7.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo5.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -701,19 +1449,19 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
                       }
                     ]
@@ -721,18 +1469,12 @@
                 },
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Resources/characters/Glimera8.png",
-                  "points": [
-                    {
-                      "name": "Gun",
-                      "x": 21,
-                      "y": 15
-                    }
-                  ],
+                  "image": "Resources/characters/GlimerCorpo6.png",
+                  "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 15.5,
-                    "y": 14
+                    "x": 0,
+                    "y": 0
                   },
                   "centerPoint": {
                     "automatic": true,
@@ -743,20 +1485,2410 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 3
                       },
                       {
-                        "x": 18,
+                        "x": 22,
                         "y": 32
                       },
                       {
-                        "x": 11,
+                        "x": 6,
                         "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fireIdle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fireWalking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo17.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo18.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo19.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerCorpo20.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 6,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 3
+                      },
+                      {
+                        "x": 22,
+                        "y": 32
+                      },
+                      {
+                        "x": 6,
+                        "y": 32
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "GlimeraBracoS",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "GunX",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fireIdle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fireWalking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS17.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS18.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS19.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoS20.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 8,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 13
+                      },
+                      {
+                        "x": 12,
+                        "y": 21
+                      },
+                      {
+                        "x": 8,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "GlimeraBracoI",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "folded": true,
+          "name": "GunX",
+          "type": "number",
+          "value": 0
+        }
+      ],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Walking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI9.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI10.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jump2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.12,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI11.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI12.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fireIdle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI13.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI14.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI15.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fireWalking",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.1,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI16.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI17.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI18.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI19.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Resources/characters/GlimerBracoI20.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 17,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 13
+                      },
+                      {
+                        "x": 21,
+                        "y": 21
+                      },
+                      {
+                        "x": 17,
+                        "y": 21
                       }
                     ]
                   ]
@@ -778,12 +3910,66 @@
         "objectName": "bullet"
       },
       {
-        "objectName": "Glimera"
+        "folderName": "Glimera",
+        "children": [
+          {
+            "objectName": "GlimeraBracoS"
+          },
+          {
+            "objectName": "GlimeraCorpo"
+          },
+          {
+            "objectName": "GlimeraBracoI"
+          }
+        ]
       }
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "LeftAction",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "RightAction",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "UpAction",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "DownAction",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "ShootAction",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "JumpAction",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "PlayerAnim",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "b": 206,
@@ -805,7 +3991,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 3.3758996208484877,
+        "zoomFactor": 1.8583798517298,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1006,12 +4192,42 @@
           "customSize": false,
           "height": 0,
           "layer": "",
-          "name": "Glimera",
+          "name": "GlimeraCorpo",
           "persistentUuid": "fdaa938b-5651-4948-9bd4-a334baa984f4",
           "width": 0,
           "x": 64,
-          "y": 142,
+          "y": 128,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "GlimeraBracoS",
+          "persistentUuid": "f5d990c0-6a36-4838-b283-a8bb885df3d5",
+          "width": 0,
+          "x": 64,
+          "y": 96,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "GlimeraBracoI",
+          "persistentUuid": "8a1eb5d4-125c-4d9b-8758-d7bc78e216df",
+          "width": 0,
+          "x": 64,
+          "y": 64,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1127,248 +4343,875 @@
       },
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "init",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "OpacityCapability::OpacityBehavior::SetValue"
-              },
-              "parameters": [
-                "Colision",
-                "Opacity",
-                "=",
-                "0"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "PlayerControlls"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "",
-                "z"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Colision",
+                    "Opacity",
+                    "=",
+                    "0"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "BuiltinCommonInstructions::Once"
-              },
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ClampCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "Map.X()",
+                    "Map.Y()",
+                    "Map.X() + Map.Width()",
+                    "Map.Y() + Map.Height()",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "GlimeraBracoS",
+                    "=",
+                    "GlimeraCorpo.X()",
+                    "=",
+                    "GlimeraCorpo.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "GlimeraBracoI",
+                    "=",
+                    "GlimeraCorpo.X()",
+                    "=",
+                    "GlimeraCorpo.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "GlimeraCorpo",
+                    "Animation",
+                    "=",
+                    "GlobalVariable(PlayerAnim)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "GlimeraBracoS",
+                    "Animation",
+                    "=",
+                    "GlobalVariable(PlayerAnim)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "GlimeraBracoI",
+                    "Animation",
+                    "=",
+                    "GlobalVariable(PlayerAnim)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "PlayerControlls",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "AnimationControl",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsJumping"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IsFalling"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CurrentSpeed"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject",
+                        "!=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "PlayerAnim",
+                        "=",
+                        "1"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ModVarGlobal"
+                      },
+                      "parameters": [
+                        "PlayerAnim",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Actions",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "LeftAction",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "RightAction",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "UpAction",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateUpKey"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "DownAction",
+                        "True"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateDownKey"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ShootAction",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "Flippable"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::FireTowardPosition"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "FireBullet",
+                        "GlimeraBracoI.X()+27",
+                        "GlimeraBracoI.Y()+16",
+                        "bullet",
+                        "GlimeraBracoI.X()+100",
+                        "GlimeraBracoI.Y()+16",
+                        "200",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "ShootAction",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "Flippable"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FireBullet::FireBullet::FireTowardPosition"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "FireBullet",
+                        "GlimeraBracoI.X()-8",
+                        "GlimeraBracoI.Y()+16",
+                        "bullet",
+                        "(GlimeraBracoI.X()+100)*-1",
+                        "GlimeraBracoI.Y()+16",
+                        "200",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "GlobalVariableAsBoolean"
+                      },
+                      "parameters": [
+                        "JumpAction",
+                        "True"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "GlimeraCorpo",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Input",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Activation",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "LeftAction",
+                            "True"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "GlimeraCorpo",
+                            "Flippable",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "GlimeraBracoS",
+                            "Flippable",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "GlimeraBracoI",
+                            "Flippable",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Right"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "RightAction",
+                            "True"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "GlimeraCorpo",
+                            "Flippable",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "GlimeraBracoS",
+                            "Flippable",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "GlimeraBracoI",
+                            "Flippable",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Up"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "UpAction",
+                            "True"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Down"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "DownAction",
+                            "True"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "z"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "ShootAction",
+                            "True"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Space"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "JumpAction",
+                            "True"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Desactivation",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "LeftAction",
+                            "False"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "Right"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "RightAction",
+                            "False"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "Up"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "UpAction",
+                            "False"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "Down"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "DownAction",
+                            "False"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "z"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "ShootAction",
+                            "False"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "Space"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetGlobalVariableAsBoolean"
+                          },
+                          "parameters": [
+                            "JumpAction",
+                            "False"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                }
+              ],
               "parameters": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Create"
-              },
-              "parameters": [
-                "",
-                "bullet",
-                "Glimera.PointX(\"Gun\")",
-                "Glimera.PointY(\"Gun\")",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "bullet",
-                "=",
-                "-1"
-              ]
-            },
-            {
-              "type": {
-                "value": "AddForceXY"
-              },
-              "parameters": [
-                "bullet",
-                "300",
-                "0",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Camera"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "ClampCamera"
-              },
-              "parameters": [
-                "",
-                "Map.X()",
-                "Map.Y()",
-                "Map.X() + Map.Width()",
-                "Map.Y() + Map.Height()",
-                "",
-                ""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Animação\n"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::CurrentSpeed"
-              },
-              "parameters": [
-                "Glimera",
-                "PlatformerObject",
-                ">",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlipX"
-              },
-              "parameters": [
-                "Glimera",
-                "Flippable",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Glimera",
-                "Animation",
-                "=",
-                "\"Walking\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::CurrentSpeed"
-              },
-              "parameters": [
-                "Glimera",
-                "PlatformerObject",
-                "<",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "FlippableCapability::FlippableBehavior::FlipX"
-              },
-              "parameters": [
-                "Glimera",
-                "Flippable",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Glimera",
-                "Animation",
-                "=",
-                "\"Walking\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::CurrentSpeed"
-              },
-              "parameters": [
-                "Glimera",
-                "PlatformerObject",
-                "=",
-                "0"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Glimera",
-                "Animation",
-                "=",
-                "\"Idle\""
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
@@ -1426,6 +5269,10 @@
           "type": "EffectCapability::EffectBehavior"
         },
         {
+          "name": "FireBullet",
+          "type": "FireBullet::FireBullet"
+        },
+        {
           "name": "Flippable",
           "type": "FlippableCapability::FlippableBehavior"
         },
@@ -1438,12 +5285,24 @@
           "type": "PlatformBehavior::PlatformBehavior"
         },
         {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
           "name": "Resizable",
           "type": "ResizableCapability::ResizableBehavior"
         },
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera"
+        },
+        {
+          "name": "SmoothPlatformerCamera",
+          "type": "SmoothCamera::SmoothPlatformerCamera"
         }
       ]
     }
